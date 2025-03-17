@@ -22,3 +22,6 @@ Our goal is to revolutionize startup funding by leveraging blockchain technology
 ✅ **Immutable Records:** Every transaction is recorded on the blockchain for transparency.  
 
 Contract Address: 0xd5ea8a3bf1aac7dd3294a77072edee0e20d8bf08
+
+![image](https://github.com/user-attachments/assets/69c3c6ea-9c72-42a9-ac66-f28d1eb61d39)
+
